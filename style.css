@@ -72,7 +72,7 @@ span{
         width: 80%;
     } 
     #request , .question{
-        width: 70%;
+        width: 75%;
     }
 }
 @media screen and (max-width: 500px){
