@@ -16,6 +16,9 @@ body{
     50%{background-image: url('food2.jpg');}
     100%{background-image: url('food3.jpg');}
 }
+div:active{
+    border: solid 1px green;
+}
 #request{
     width: 60%;
     margin: auto;
