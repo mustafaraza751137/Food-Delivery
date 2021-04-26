@@ -69,14 +69,14 @@ span{
 }
 @media screen and (max-width: 800px){
     #pic{
-        width: 90%;
-    } 
-    div{
         width: 80%;
+    } 
+    #request , .question{
+        width: 70%;
     }
 }
 @media screen and (max-width: 500px){
     #pic{
-        width: 100%;
+        width: 90%;
     }
 }
