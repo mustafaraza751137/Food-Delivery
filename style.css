@@ -55,7 +55,8 @@ label{
 #button{
     padding: 10px;
     font-size: 15px;
-    margin-left: 80%;
+    margin-left: 70%;
+    margin-top: 30px;
     background-color: teal;
     color: white;
     border-radius: 5px;
@@ -72,11 +73,11 @@ span{
         width: 80%;
     } 
     #request , .question{
-        width: 70%;
+        width: 75%;
     }
 }
 @media screen and (max-width: 500px){
     #pic{
-        width: 90%;
+        width: 100%;
     }
 }
