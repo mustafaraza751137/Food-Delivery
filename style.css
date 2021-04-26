@@ -77,6 +77,6 @@ span{
 }
 @media screen and (max-width: 500px){
     #pic{
-        width: 90%;
+        width: 100%;
     }
 }
