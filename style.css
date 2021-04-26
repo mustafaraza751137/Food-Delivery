@@ -17,7 +17,7 @@ body{
     100%{background-image: url('food3.jpg');}
 }
 div:active{
-    border: solid 1px green;
+    border: solid 2px green;
 }
 #request{
     width: 60%;
